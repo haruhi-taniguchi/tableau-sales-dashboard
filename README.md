@@ -21,7 +21,7 @@ Tableau Publicで作成した売上と顧客行動の分析ダッシュボード
 - Kaggle Superstore Dataset
 
 ## 🌐 公開ダッシュボード
-▶ [View on Tableau Public](https://public.tableau.com/authoring/_17518802990720/SalesCustomerInsights#1)
+▶ [View on Tableau Public](https://public.tableau.com/app/profile/taniguchi.haruhi/viz/_17518802990720/SalesCustomerInsights)
 
 ## 📂 データソース
 - [Kaggle: Superstore Dataset Final](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
